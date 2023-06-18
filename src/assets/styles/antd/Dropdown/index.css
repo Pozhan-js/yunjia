@@ -1,0 +1,19 @@
+.ant-dropdown-menu-item:hover, .ant-dropdown-menu-submenu-title:hover, .ant-dropdown-menu-item.ant-dropdown-menu-item-active, .ant-dropdown-menu-item.ant-dropdown-menu-submenu-title-active, .ant-dropdown-menu-submenu-title.ant-dropdown-menu-item-active, .ant-dropdown-menu-submenu-title.ant-dropdown-menu-submenu-title-active {
+    background-color: #6F19F7;
+    border-radius: 0.5rem;
+}
+
+.ant-dropdown-menu-title-content {
+    padding: 0.375rem;
+}
+
+.ant-dropdown {
+    color: #1F1B2BE5;
+}
+
+.ant-dropdown-menu {
+    min-width: 10rem;
+    border-radius: 0.625rem;
+    padding: 0.375rem;
+    border: 0.06rem solid #382D49;
+}

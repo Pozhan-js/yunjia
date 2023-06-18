@@ -1,0 +1,34 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=fallback');*/
+@import 'animate.css';
+@import 'antd/dist/antd.css';
+@import '@/assets/styles/css/additional-styles/theme.css';
+@import '@/assets/styles/css/additional-styles/utility-patterns.css';
+@import '@/assets/styles/css/additional-styles/range-slider.css';
+@import '@/assets/styles/css/additional-styles/toggle-switch.css';
+@import '@/assets/styles/css/additional-styles/components.css';
+@import '@/assets/styles/fonts/font.css';
+@import '@/assets/styles/css/additional-styles/quill.core.css';
+/*@import 'tailwindcss/base';*/
+/*@import 'tailwindcss/components';*/
+/*@import 'tailwindcss/utilities';*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Additional styles */
+
+
+/* Additional Tailwind directives: https://tailwindcss.com/docs/functions-and-directives/#responsive */
+@layer utilities {
+    .rtl {
+        direction: rtl;
+    }
+}
+
+/* See Alpine.js: https://github.com/alpinejs/alpine#x-cloak */
+[x-cloak=""] {
+    display: none;
+}
+
+a:hover {
+    color: #933EFF;
+}

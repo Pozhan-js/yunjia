@@ -1,0 +1,22 @@
+@layer components {
+  .right_menu_svg img {
+    @apply mx-4 my-4 cursor-pointer;
+  }
+  .footer-menu img{
+    @apply cursor-pointer;
+  }
+  .ball{
+    @apply w-[7.5rem] h-[7.5rem] absolute
+  }
+  .bg-gradient-title-1 {
+    background: linear-gradient(90deg, #FF701F 0%, #FFF95E 51%, #FF6520 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .bg-gradient-title-2 {
+    background: linear-gradient(90deg, #F8ABFF 0%, #F259FF 51%, #5F26FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
+

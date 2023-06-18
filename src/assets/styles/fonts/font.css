@@ -1,0 +1,64 @@
+@font-face {
+    font-family: MontserratItalic;
+    src: url('./FontsFree-Net-Montserrat-BlackItalic.ttf');
+}
+
+@font-face {
+    font-family: MontserratLight;
+    src: url('./Montserrat-Light.ttf');
+}
+
+@font-face {
+    font-family: MontserratBold;
+    src: url('./Montserrat-Bold.ttf');
+}
+
+@font-face {
+    font-family: GTWalsheimRegular;
+    src: url('./GTWalsheim-Regular.otf');
+}
+
+@font-face {
+    font-family: GTWalsheimMedium;
+    src: url('./GT Walsheim-Medium.woff2.ttf');
+}
+
+@font-face {
+    font-family: GTWalsheimBold;
+    src: url('./GT Walsheim-Bold.woff2.ttf');
+}
+
+@font-face {
+    font-family: GTWalsheimProRegular;
+    src: url('./GTWalsheimPro-Regular.ttf');
+}
+
+@font-face {
+    font-family: GTWalsheimProMedium;
+    src: url('./GTWalsheimPro-Medium.ttf');
+}
+
+@font-face {
+    font-family: GTWalsheimProMediumOblique;
+    src: url('./GTWalsheimPro-MediumOblique.ttf');
+}
+
+@font-face {
+    font-family: GTWalsheimProBoldOblique;
+    src: url('./GTWalsheimPro-BoldOblique.ttf');
+}
+
+@font-face {
+    font-family: GalanoGrotesqueMedium;
+    src: url('./GalanoGrotesqueMedium.otf');
+}
+
+@font-face {
+    font-family: GalanoGrotesqueRegular;
+    src: url('./GalanoGrotesqueRegular.otf');
+}
+
+@font-face {
+    font-family: Krungthep;
+    src: url('./Krungthep.ttf');
+}

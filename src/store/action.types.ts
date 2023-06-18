@@ -1,0 +1,9 @@
+export const LOGIN = 'LOGIN';
+export const LOGIN_OUT = 'LOGIN_OUT';
+export const UPDATE_VERSION = 'UPDATE_VERSION';
+export const UPDATE_MENU = 'UPDATE_MENU';
+export const UPDATE_BANNER = 'UPDATE_BANNER';
+export const UPDATE_HEADER_HEIGHT = 'UPDATE_HEADER_HEIGHT';
+export const UPDATE_HEADER_TOP = 'UPDATE_HEADER_TOP';
+export const UPDATE_AVATAR='UPDATE_AVATAR';
+export const EMIT_LOGIN = 'EMIT_LOGIN';
